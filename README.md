@@ -5,5 +5,5 @@ Test for get a balance by passing an andress
 $ go run main.go
 
 ```
-teste webhookdsfssfd
+teste webhookdsfssfd teste
 Access localhost:8080/balance/{address} and then you get the json of the balance.
